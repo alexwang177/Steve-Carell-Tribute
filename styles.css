@@ -1,0 +1,50 @@
+body{
+    margin: 0 5px;
+}
+
+h2{
+    text-align: center;
+    font-size: 18px;
+}
+
+ul li{
+    font-size: 15px;
+    padding: 5px 0px;
+}
+
+#main{
+    background: #f0f4f5f8;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    color: #3c3e3f;
+}
+
+#title{
+    text-align: center;
+    padding-top: 20px;
+}
+
+#tribute-info{
+    text-align: center;
+    font-size:  14px;
+    font-weight: 120;
+}
+
+#img-div{
+    background: rgb(151, 211, 198);
+    margin: 0 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#image{
+    padding: 10px;
+   max-width: 35%;
+   height: auto;
+}
+
+#img-caption{
+    text-align: center;
+}
